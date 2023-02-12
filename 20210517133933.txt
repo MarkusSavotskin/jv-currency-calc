@@ -1,0 +1,36 @@
+Valuutakalkulaator 2.0
+Muudetud: 17.05.2021 13:39:33
+
+EUR -> AUD kurss on 1.5581
+EUR -> BGN kurss on 1.9558
+EUR -> BRL kurss on 6.644
+EUR -> CAD kurss on 1.4982
+EUR -> CHF kurss on 1.1044
+EUR -> CNY kurss on 7.7761
+EUR -> CZK kurss on 25.919
+EUR -> DKK kurss on 7.4365
+EUR -> GBP kurss on 0.8607
+EUR -> HKD kurss on 9.2527
+EUR -> HRK kurss on 7.5763
+EUR -> HUF kurss on 359.68
+EUR -> IDR kurss on 17304.71
+EUR -> ILS kurss on 3.9236
+EUR -> INR kurss on 88.3675
+EUR -> ISK kurss on 150.4
+EUR -> JPY kurss on 130.56
+EUR -> KRW kurss on 1328.05
+EUR -> MXN kurss on 24.0091
+EUR -> MYR kurss on 4.9099
+EUR -> NOK kurss on 10.0535
+EUR -> NZD kurss on 1.6907
+EUR -> PHP kurss on 57.965
+EUR -> PLN kurss on 4.5756
+EUR -> RON kurss on 4.9185
+EUR -> RUB kurss on 92.3359
+EUR -> SEK kurss on 10.236
+EUR -> SGD kurss on 1.5917
+EUR -> THB kurss on 37.286
+EUR -> TRY kurss on 9.7227
+EUR -> USD kurss on 1.1884
+EUR -> ZAR kurss on 17.2803
+EUR -> aa kurss on 2.0

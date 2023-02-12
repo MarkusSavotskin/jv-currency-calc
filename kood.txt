@@ -1,0 +1,33 @@
+ImageView pilt1 = new ImageView();
+        try(InputStream stream = new FileInputStream("pilt1.jpg")){
+            Image image = new Image(stream);
+            pilt1.setImage(image);
+            pilt1.setFitWidth(400);
+            pilt1.setPreserveRatio(true);
+        }
+        ImageView pilt2 = new ImageView();
+        try(InputStream stream = new FileInputStream("pilt2.jpg")){
+            Image image = new Image(stream);
+            pilt2.setImage(image);
+            pilt2.setFitWidth(400);
+            pilt2.setPreserveRatio(true);
+        }
+        ImageView pilt3 = new ImageView();
+        try(InputStream stream = new FileInputStream("pilt3.jpg")){
+            Image image = new Image(stream);
+            pilt3.setImage(image);
+            pilt3.setFitWidth(400);
+            pilt3.setPreserveRatio(true);
+        }
+        ImageView pilt4 = new ImageView();
+        try(InputStream stream = new FileInputStream("pilt4.jpg")){
+            Image image = new Image(stream);
+            pilt4.setImage(image);
+            pilt4.setFitWidth(400);
+            pilt4.setPreserveRatio(true);
+        }
+
+        ImageView[] pildid = {pilt1, pilt2, pilt3, pilt4};
+        Random random = new Random;
+
+        pildid[random.nextInt(3)];
